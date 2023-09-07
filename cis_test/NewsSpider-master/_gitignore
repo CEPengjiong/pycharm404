@@ -1,0 +1,9 @@
+data/ne.json
+data/news.db
+data/news.json
+data/title.json
+data/cutnews
+data/orinews
+data/inversedata
+**/*.pyc
+tools/news.db
